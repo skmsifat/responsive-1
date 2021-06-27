@@ -1,0 +1,342 @@
+/* I'm Doing full Responsive in this static template  */
+@media (max-width:1950px){
+    .header-logo img {
+        width: 131px;
+        margin-top: 7px;
+    }
+    .header-menu .menu ul li a {
+        padding: 29px 20px;
+    }
+}
+
+@media (max-width:1180px){
+    .service-items .items {
+        padding: 15px 16px;
+        width: 30%;;
+        margin: 10px 18px;
+    }
+
+}
+
+@media (max-width:1190px){
+    .fotter-content .f-left {
+        padding: 0px 31px;
+    }
+    .fotter-content .f-right ul {
+        margin-right: 22px;
+    }
+
+}
+
+@media (max-width:1160px){
+    .header-section {
+        padding: 0px 37px;
+    }
+
+    .header-logo img {
+        width: 123px;
+        margin-top: 10px;
+    }
+    .header-menu .menu ul li a {
+        padding: 29px 15px;
+        font-size: 15px;
+    }
+}
+
+
+@media (max-width:1010px){
+    .about-content .about-img {
+        width: 25%;
+        padding-left: 33px;
+        margin-right: 36px;
+    }
+    .about-content .about-text {
+        width: 67%;
+        margin-left: 38px;
+        padding-right: 61px;
+    }
+    .service-items .items {
+        padding: 15px 10px;
+        width: 27%;
+        margin: 10px 31px;
+    }
+}
+
+@media (max-width:950px){
+
+    .header-logo img {
+        width: 100px;
+        margin-top: 10px;
+       
+    }
+
+    .header-menu .menu ul li a {
+        padding: 23px 15px;
+    }
+
+    .header-section {
+        padding: 0px 43px;
+    }
+
+    .banner-content h4 {
+        font-size: 27px;
+    }
+    .banner-section {
+        padding: 172px 0px;
+    }
+
+}
+
+@media (max-width:920px){
+    .about-content .about-img {
+        width: 24%;
+        padding-left: 30px;
+        margin-right: 11px;
+    }
+    .about-content .about-text p {
+        line-height: 24px;
+        font-size: 12px;
+    }
+    .about-content .about-text h6 {
+        font-size: 15px;
+        margin-bottom: 14px;
+    }
+    .about-content .about-text h4 {
+        font-size: 19px;
+        margin-bottom: 13px;
+    }
+}
+
+@media (max-width:900px){
+    .service-items .items {
+        padding: 0px 5px;
+        width: 24%;
+        margin: 10px 41px;
+    }
+    .service-items .items h5 {
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+    .service-items .items p {
+        padding: 11px 12px;
+        font-size: 12px;
+    }
+    .service-items .items span {
+        height: 45px;
+        width: 45px;
+        line-height: 45px;
+        font-size: 21px;
+        margin-top: 18px;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width:810px){
+    .service-items .items {
+        padding: 0px 32px;
+        width: 94%;
+        margin: 11px 20px;
+    }
+
+}
+
+
+@media (max-width:690px){
+    .header-menu .menu ul li a {
+        padding: 21px 8px;
+        font-size: 13px;
+    }
+    .header-logo img {
+        width: 91px;
+        margin-top: 9px;
+    }
+
+    .banner-content h4 {
+        font-size: 22px;
+    }
+    .banner-content h6 {
+        font-size: 16px;
+        margin-bottom: 17px;
+    }
+    .banner-section {
+        padding: 101px 0px;
+    }
+}
+
+
+
+
+@media (max-width:610px){
+    .about-content .about-img {
+        width: 100%;
+        padding-left: 0px;
+        margin-right: 0px;
+        padding: 20px;
+    }
+    .about-content .about-text {
+        width: 100%;
+        text-align: center;
+        padding: 20px;
+}
+
+}
+
+@media (max-width:610px){
+    .service-items .items {
+        width: 90%;
+        margin: 11px 28px;
+    }
+
+}
+
+@media (max-width:530px){
+    .header-logo {
+        width: 100%;
+        text-align: center;
+        margin: 0px 0px;
+    }
+    .header-logo img {
+        width: 100px;
+    }
+
+    .header-menu {
+        width: 100%;
+    }
+    .header-menu .menu ul li a {
+        padding: 15px 13px;
+        font-size: 14px;
+        border: none;
+    }
+    .header-menu .menu ul {
+        text-align: center;
+    }
+    .banner-content h4 {
+        font-size: 17px;
+    }
+    .banner-content h4 {
+        font-size: 14px;
+    }
+    .banner-content h6 {
+        font-size: 13px;
+        margin-bottom: 14px;
+        color: red;
+    }
+
+}
+
+@media (max-width:539px){
+
+    .fotter-content .f-left {
+        width: 100%;
+        text-align: center;
+    }
+    .fotter-content .f-left p {
+        font-size: 12px;
+        margin: 7px 0px;
+    }
+    .fotter-content .f-right {
+        width: 100%;
+        margin: 8px 0px;
+    }
+    .fotter-content .f-right ul {
+        text-align: center;
+    }
+    .fotter-section {
+        padding: 7px 0px;
+    }
+    .fotter-content .f-right ul li a i {
+        font-size: 13px;
+    }
+    .fotter-content .f-right ul {
+        margin-right: 0px;
+    }
+}
+
+
+@media (max-width:460px){
+    .header-menu .menu ul li a {
+        padding: 12px 10px;
+        font-size: 12px;
+    }
+    .header-logo img {
+        width: 85px;
+    }
+
+    .service-items .items {
+        width: 71%;
+        margin: 11px 58px;
+        /* margin: 11px auto; */
+    }
+    .service-items .items {
+        width: 63%;
+    }
+    .service-items .items h5 {
+        font-size: 16px;
+        margin-bottom: 1px;
+    }
+    .service-items .items p {
+        padding: 9px 12px;
+        font-size: 9px;
+    }
+    .service-items .items span {
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        font-size: 14px;
+        margin-bottom: 14px;
+    }
+    .service-items .items {
+        width: 63%;
+        margin: 10px 82px;
+    }
+
+}
+
+@media (max-width:410px){
+    .service-items .items {
+        width: 60%;
+        margin: 10px 75px;
+    }
+}
+
+@media (max-width:397px){
+    .header-menu .menu ul li a {
+        padding: 8px 6px;
+        font-size: 11px;
+        color: red;
+    }
+    .header-logo img {
+        width: 69px;
+    }
+    .header-section {
+        padding: 0px 11px;
+    }
+    .banner-content h4 {
+        font-size: 12px;
+        color: red;
+    }
+    .banner-content h6 {
+        
+        color: bisque;
+    }
+    .banner-section {
+        padding: 67px 0px;
+    }
+}
+
+@media (max-width:350px){
+    .service-items .items {
+        width: 60%;
+        margin: 10px 70px;
+    }
+    .service-items .items span {
+        color: red;
+        border: 1px solid red;
+    }
+}
+
+@media (max-width:300px){
+    .service-items .items {
+        margin: 10px 55px;
+    }
+}
